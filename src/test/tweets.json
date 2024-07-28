@@ -28,7 +28,7 @@
         "profile_sidebar_fill_color": "000000",
         "created_at": "Tue Mar 31 20:57:57 +0000 2009",
         "location": "San Jose, CA",
-        "profile_image_url": "http:\/\/a0.twimg.com\/profile_images\/1014299634\/twitter9_normal.jpg",
+        "profile_image_url": "https:\/\/a0.twimg.com\/profile_images\/1014299634\/twitter9_normal.jpg",
         "follow_request_sent": false,
         "profile_link_color": "f3901d",
         "is_translator": false,
@@ -51,7 +51,7 @@
         "notifications": false,
         "geo_enabled": false,
         "verified": true,
-        "profile_background_image_url": "http:\/\/a3.twimg.com\/profile_background_images\/32524835\/twitter7.jpg",
+        "profile_background_image_url": "https:\/\/a3.twimg.com\/profile_background_images\/32524835\/twitter7.jpg",
         "default_profile_image": false,
         "friends_count": 78,
         "statuses_count": 1699,
@@ -59,7 +59,7 @@
         "following": false,
         "show_all_inline_media": false
       },
-      "source": "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+      "source": "\u003Ca href=\"https:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
       "in_reply_to_status_id": null
     },
     "id_str": "60833399132258306",
@@ -81,7 +81,7 @@
       "profile_sidebar_fill_color": "F5C7C9",
       "created_at": "Mon Mar 24 17:16:26 +0000 2008",
       "location": "california",
-      "profile_image_url": "http:\/\/a1.twimg.com\/profile_images\/58567276\/2755186893_c7b31b651b_b_normal.jpg",
+      "profile_image_url": "https:\/\/a1.twimg.com\/profile_images\/58567276\/2755186893_c7b31b651b_b_normal.jpg",
       "follow_request_sent": false,
       "profile_link_color": "777777",
       "is_translator": false,
@@ -104,7 +104,7 @@
       "notifications": false,
       "geo_enabled": false,
       "verified": false,
-      "profile_background_image_url": "http:\/\/a0.twimg.com\/profile_background_images\/66730001\/ahflowerscribble.br.jpg",
+      "profile_background_image_url": "https:\/\/a0.twimg.com\/profile_background_images\/66730001\/ahflowerscribble.br.jpg",
       "default_profile_image": false,
       "friends_count": 96,
       "statuses_count": 3319,
@@ -112,7 +112,7 @@
       "following": true,
       "show_all_inline_media": false
     },
-    "source": "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "source": "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "in_reply_to_status_id": null
   },
   {
@@ -144,7 +144,7 @@
         "profile_sidebar_fill_color": "DDFFCC",
         "created_at": "Mon Dec 22 02:46:16 +0000 2008",
         "location": "Pr\u00e9vost",
-        "profile_image_url": "http:\/\/a2.twimg.com\/profile_images\/1292846058\/pouet_normal.png",
+        "profile_image_url": "https:\/\/a2.twimg.com\/profile_images\/1292846058\/pouet_normal.png",
         "profile_link_color": "0084B4",
         "is_translator": false,
         "id_str": "18298703",
@@ -175,7 +175,7 @@
         "show_all_inline_media": false,
         "following": false
       },
-      "source": "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+      "source": "\u003Ca href=\"https:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
       "in_reply_to_status_id": null
     },
     "id_str": "60831548257214464",
@@ -197,7 +197,7 @@
       "profile_sidebar_fill_color": "DDEEF6",
       "created_at": "Sun Sep 07 05:22:51 +0000 2008",
       "location": "Kenilworth",
-      "profile_image_url": "http:\/\/a0.twimg.com\/profile_images\/59578326\/hmm_normal.png",
+      "profile_image_url": "https:\/\/a0.twimg.com\/profile_images\/59578326\/hmm_normal.png",
       "profile_link_color": "0084B4",
       "is_translator": false,
       "id_str": "16166414",
